@@ -1,9 +1,9 @@
-👋 Moin, I’m @T0eni
-👀 Regular Copy&Paste Guy
-✔ Interested in everything to make life easier
-🐧🍏 Not from the Blue Screen Society
+- 👋 Moin, I’m @T0eni
+- 👀 Regular Copy&Paste Guy
+- ✔ Interested in everything to make life easier
+- 🐧🍏 Not from the Blue Screen Society
 
-🏠Hannover, Germany
+- 🏠Hannover, Germany
 
 
 <!---
